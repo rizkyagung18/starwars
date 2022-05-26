@@ -37,15 +37,15 @@ To run this app clone this [repository](https://github.com/rizkyagung18/starwars
 #### Android
 
 <p float="left">
-  <img src="https://github.com/rizkyagung18/starwars/screenshots/home_android.png" width="250">
-  <img src="https://github.com/rizkyagung18/starwars/screenshots/list_android.png" width="250">
-  <img src="https://github.com/rizkyagung18/starwars/screenshots/detail_android.png" width="250">
+  <img src="https://github.com/rizkyagung18/starwars/blob/master/screenshots/home_android.png" width="250">
+  <img src="https://github.com/rizkyagung18/starwars/blob/master/screenshots/list_android.png" width="250">
+  <img src="https://github.com/rizkyagung18/starwars/blob/master/screenshots/detail_android.png" width="250">
 </p>
 
 #### iOS
 
 <p float="left">
-  <img src="https://github.com/rizkyagung18/starwars/screenshots/home_ios.png" width="250">
-  <img src="https://github.com/rizkyagung18/starwars/screenshots/list_ios.png" width="250">
-  <img src="https://github.com/rizkyagung18/starwars/screenshots/detail_ios.png" width="250">
+  <img src="https://github.com/rizkyagung18/starwars/blob/master/screenshots/home_ios.png" width="250">
+  <img src="https://github.com/rizkyagung18/starwars/blob/master/screenshots/list_ios.png" width="250">
+  <img src="https://github.com/rizkyagung18/starwars/blob/master/screenshots/detail_ios.png" width="250">
 </p>
