@@ -24,3 +24,7 @@ export interface Starship {
   model: string;
   manufacturer: string;
 }
+
+export interface ErrorResponse {
+  detail: string;
+}

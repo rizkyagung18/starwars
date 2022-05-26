@@ -15,7 +15,7 @@ export const Card: React.FC<Props> = ({ film, navigation }) => {
     <Pressable onPress={() => navigation.navigate('PeopleList', { film })}>
       <Box alignItems='center'>
         <Box width='100%' rounded='lg' overflow='hidden'>
-          <Box bgColor='black' padding='12'>
+          <Box bgColor='gray.800' padding='12'>
             <Center>
               <LogoYellow />
             </Center>

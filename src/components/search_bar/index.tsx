@@ -7,11 +7,11 @@ type Ref = TextInput;
 
 export const SearchBar = forwardRef<Ref, TextInputProps>((props, ref) => {
   return (
-    <Input 
-      placeholder="Search" 
+    <Input
       variant="filled" 
       width="100%" 
-      borderRadius="10" 
+      borderRadius='20'
+      padding='3'
       borderWidth="0" 
       InputLeftElement={<Icon ml="2" size="4" color="gray.400" as={<Ionicons name="ios-search" />} />} 
       {...props}
